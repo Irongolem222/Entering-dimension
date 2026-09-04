@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(218, 193, 125);
+    font-family: Arial;
+    text-align: center;
+}
+
+header {
+    background-color: rgb(255, 246, 194);
+    color: rgb(53, 40, 0);
+    padding: 20px;
+}
+
+nav a {
+    color: rgb(255, 98, 98);
+    margin: 0 15px;
+}
+
+section {
+    padding: 20px;
+}
